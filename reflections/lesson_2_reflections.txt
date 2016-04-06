@@ -1,2 +1,5 @@
 1)	How is the staging area different from the working directory and the repository? What value do you think it offers?
-	It is an intermediate area where we prepare files before they are committed 
+	It is an intermediate area where we prepare files before they are committed
+	
+2) How can you use the staging area to make sure you have one commit per logical change?
+	By comparing the code change between the staging area and the repository's latest commit. Use git diff --staged to compare the differences. Then make sure that the changes only apply to one logical change
