@@ -9,3 +9,7 @@
 
 4)	How do the diagrams help you visualize the branch structure?
 	Get a clear understanding on where and at what point a variation is being made to a master document
+
+5)	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	Combine changes made to a document onto the currently checked out branch
+	Easier to visualise using the diagram
