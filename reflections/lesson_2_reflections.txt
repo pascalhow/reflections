@@ -6,3 +6,6 @@
 
 3)	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	It allows you to experiment new changes without fear of affecting the original last commit. You can create different versions of a master copy. Branches can have name labels to make it easier to know what each branch is about
+
+4)	How do the diagrams help you visualize the branch structure?
+	Get a clear understanding on where and at what point a variation is being made to a master document
