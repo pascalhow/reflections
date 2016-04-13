@@ -13,3 +13,6 @@
 5)	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	Combine changes made to a document onto the currently checked out branch
 	Easier to visualise using the diagram
+
+6)	What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Merging manually is more time consuming and tedious but it gives user full control over what changes to accept or reject
